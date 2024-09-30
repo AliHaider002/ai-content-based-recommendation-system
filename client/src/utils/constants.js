@@ -1,0 +1,1 @@
+export const TMDB_IMAGE_PATH = "http://image.tmdb.org/t/p/w500"
